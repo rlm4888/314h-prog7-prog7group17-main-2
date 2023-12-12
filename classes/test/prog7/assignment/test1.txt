@@ -1,0 +1,5 @@
+test1
+<a href="./test.txt"></a>
+<script>
+FUCK
+</script>
