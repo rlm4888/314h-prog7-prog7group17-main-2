@@ -1,12 +1,11 @@
 == INCLUDED FILES ==
 
-README.txt                 This file
 WebCrawler.java            This is some sample code that crawls pages; run this to run the crawler
-CrawlingMarkupHandler.java Your Crawler code goes here
+CrawlingMarkupHandler.java Crawler code goes here
 Index.java                 A class with serialization code
-WebIndex.java              Your index goes here
+WebIndex.java              Index goes here
 WebServer.java             Sample code for a simple server; run this to run the webserver
-WebQueryEngine.java        Your query engine goes here
+WebQueryEngine.java        Query engine goes here
 Page.java                  A wrapper class for page results
 tsoogle.png                Part of the web interface
 attoparser-*.jar           A library used for crawling
